@@ -1,0 +1,37 @@
+.button-over {
+    color: black;
+    font: bold;
+    background-color: green;
+    padding: 6px 8px;
+    border-radius: 15px;
+    margin-right: 20px;
+}
+.button-home{
+    color: black;
+    font: bold;
+    background-color: greenyellow;
+    padding: 6px 20px;
+    border-radius: 15px;
+}
+.button-over:hover{
+    color: #000000;
+    font: bold;
+    background-color: lightcoral;
+    padding: 5px 7px;
+}
+.button-home:hover{
+    color: #000000;
+    font: bold;
+    background-color: lightcoral;
+    padding: 5px 19px;
+}
+div{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Over{
+    text-align: center;
+    background: chartreuse;
+    margin: 8% 21%;
+    padding: 5%;
+    border-radius: 2em;
+}

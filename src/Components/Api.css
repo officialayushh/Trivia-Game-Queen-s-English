@@ -1,0 +1,36 @@
+.button{
+    color: black;
+    font: bold;
+    background-color: pink;
+    padding: 6px;
+    border-radius: 15px;
+    padding: 5px 20px;
+}
+.button:hover{
+    color: #000000;
+    font: bold;
+    background-color: plum;
+    padding: 4px 18px;
+}
+div{
+    font-family: Arial, Helvetica, sans-serif;
+}
+input{
+    border-radius: 6px;
+}
+.game {
+    text-align: center;
+    background: chartreuse;
+    margin: 8% 21%;
+    padding: 5%;
+    border-radius: 2em;
+  }
+  .error,
+  .score {
+    color: maroon;
+    font-weight: bold;
+    margin: 1em;
+  }
+  #congrats {
+    color: darkgreen;
+  }
